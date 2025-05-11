@@ -34,7 +34,7 @@
         async
         src="https://tenor.com/embed.js"></script>
 
-      <h2 class="question">DO you love me?</h2>
+      <h2 class="question">do you love me?</h2>
       <div class="button-container">
         <button class="yes-btn btn js-yes-btn">Yes</button>
         <button class="no-btn btn js-no-btn">No</button>
