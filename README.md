@@ -34,7 +34,7 @@
         async
         src="https://tenor.com/embed.js"></script>
 
-      <h2 class="question">anny angelica, lista para hoy</h2>
+      <h2 class="question">anny angelica, list</h2>
       <div class="button-container">
         <button class="yes-btn btn js-yes-btn">Yes</button>
         <button class="no-btn btn js-no-btn">No</button>
